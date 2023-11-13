@@ -1,17 +1,13 @@
-# PROJECT ORACLE 
-**DTS-TSA March 2023 [Oracle Cloud Infrastructure]**
+## DTS-TSA March 2023 [Oracle Cloud Infrastructure]
+# Research Title: "Statistical Analysis and Population Growth Prediction of Countries using Linear Regression Method"
 
-**Research Title**: "Statistical Analysis and Population Growth Prediction of Countries using Linear Regression Method"
-
-## Team Members:
-- ALDOWAD ALLES SANDRO HAMONANGAN SIMANJUNTAK
-  - Talent Scouting Academy from Universitas Prima Indonesia
+by :
+ ALDOWAD ALLES SANDRO HAMONANGAN SIMANJUNTAK
+  - Talent Scouting Academy scholarship from Universitas Prima Indonesia
 
 ## Introduction:
-This repository contains the details and steps for the "Oracle UAS Project" conducted in March 2023 as part of the Data Science and Technology Specialization program. The research focuses on statistical analysis and population growth prediction of countries using the Linear Regression method. The team leverages Oracle Machine Learning and Oracle Cloud Infrastructure for data analysis and prediction.
+This repository contains the details and steps for the "Oracle UAS Project" conducted in March 2023 as part of the Oracle Cloud Infrastructure Specialization program. The research focuses on statistical analysis and population growth prediction of countries using the Linear Regression method. Useing Oracle Machine Learning and Oracle Cloud Infrastructure for data analysis and prediction. For the All Report and documentation you can check : [Click Here](https://github.com/AldowadSimanjuntak/Project-Oracle-Cloud-MLOps-using-Linear-Regression/blob/main/Report%20of%20PROJECT%20ORACLE.pdf)
 
-## Oracle Machine Learning (OML) vs. Google Colab:
-The choice between Oracle Machine Learning and Google Colab depends on your specific needs, preferences, and working environment. OML offers seamless integration with Oracle Database, enabling in-database data analysis and processing. It excels in large-scale performance and security. On the other hand, Google Colab is accessible online, provides collaboration features, and integrates well with Google Cloud Services.
 
 ## Project Steps:
 
@@ -44,10 +40,9 @@ The choice between Oracle Machine Learning and Google Colab depends on your spec
 
 ## Conclusion:
 Based on the evaluation, the Linear Regression model demonstrates the ability to confidently predict population growth in the coming years. However, it's important to consider that the model's predictions are based on historical data and real-world factors may vary. Future research should explore additional variables and validate the model on independent data for better predictive capabilities.
-
 This project contributes to understanding and predicting population growth patterns using a linear regression approach, offering valuable insights for decision-making in various fields related to a country's population.
 
 ## Acknowledgments:
-We would like to thank Oracle Cloud Infrastructure for providing the platform and tools necessary for this research project.
+We would like to thank Oracle Cloud Infrastructure for providing the platform and tools necessary for this research project and Ministry of Communication and Information Technology  Indonesia for the Scholarship Program.
 
 For further inquiries or collaboration, feel free to contact me
