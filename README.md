@@ -45,4 +45,4 @@ This project contributes to understanding and predicting population growth patte
 ## Acknowledgments:
 We would like to thank Oracle Cloud Infrastructure for providing the platform and tools necessary for this research project and Ministry of Communication and Information Technology  Indonesia for the Scholarship Program.
 
-For further inquiries or collaboration, feel free to contact me
+### For further inquiries or collaboration, feel free to contact me or you can open issues. Thak You
