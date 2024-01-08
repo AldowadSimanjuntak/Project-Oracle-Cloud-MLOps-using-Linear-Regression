@@ -1,12 +1,10 @@
 ## DTS-TSA March 2023 [Oracle Cloud Infrastructure]
 # Research Title: "Statistical Analysis and Population Growth Prediction of Countries using Linear Regression Method"
 
-by :
- ALDOWAD ALLES SANDRO HAMONANGAN SIMANJUNTAK
   - Talent Scouting Academy scholarship from Universitas Prima Indonesia
 
 ## Introduction:
-This repository contains the details and steps for the "Oracle UAS Project" conducted in March 2023 as part of the Oracle Cloud Infrastructure Specialization program. The research focuses on statistical analysis and population growth prediction of countries using the Linear Regression method. Useing Oracle Machine Learning and Oracle Cloud Infrastructure for data analysis and prediction. For the All Report and documentation you can check : [Click Here](https://github.com/AldowadSimanjuntak/Project-Oracle-Cloud-MLOps-using-Linear-Regression/blob/main/Report%20of%20PROJECT%20ORACLE.pdf)
+This repository contains the details and steps for the "Oracle Project" conducted in March 2023 as part of the Oracle Cloud Infrastructure Specialization program. The research focuses on statistical analysis and population growth prediction of countries using the Linear Regression method. Useing Oracle Machine Learning and Oracle Cloud Infrastructure for data analysis and prediction. For the All Report and documentation you can check : [Click Here](https://github.com/AldowadSimanjuntak/Project-Oracle-Cloud-MLOps-using-Linear-Regression/blob/main/Report%20of%20PROJECT%20ORACLE.pdf)
 
 
 ## Project Steps:
